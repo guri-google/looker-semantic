@@ -7,7 +7,7 @@ constant: BQML_REMOTE_CONNECTION_MODEL_ID {
 
 # This is the ID of the remote connection setup in BigQuery
 constant: BQML_REMOTE_CONNECTION_ID {
-  value: "us.looker-connection"
+  value: "bq-general-364600.us.looker-connection"
 }
 
 # This is the name of the Looker BigQuery Database connection
